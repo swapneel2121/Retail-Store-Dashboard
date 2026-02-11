@@ -82,5 +82,5 @@ This Power BI project demonstrates practical skills in:
 
 ## AUTHOR
 
--**Name**-**SWAPNEEL KULKARNI**
--**EMAIL**-**swapneel2121@gmail.com**
+- **Name**-**SWAPNEEL KULKARNI**
+- **EMAIL**-**swapneel2121@gmail.com**
